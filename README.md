@@ -26,7 +26,7 @@ Profissional com conhecimento em design e informática, incluindo redes de compu
 ## 🛠️ Habilidades & Competências
  
 - 💻 Informática e Design (web design, redes de computadores)
-- 🌐 Desenvolvimento web (HTML, CSS, JavaScript)
+- 🌐 Desenvolvimento web, com maior conhecimento em BackEnd (Javascript)
 - 🤝 Trabalho em equipe e boa comunicação
 - ⚡ Proatividade e aprendizado contínuo
 - 🔧 Desenvolvimento de projetos e soluções
